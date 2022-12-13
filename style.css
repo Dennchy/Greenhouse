@@ -1,0 +1,34 @@
+.bg-darkgreen{
+	background: #1C5620
+}
+.bg-orange{
+	background: #FF9933;
+}
+.text-orange{
+	color: #FF9933;
+}
+.text-darkgreen{
+	color: #1C5620;
+}
+.btn-outline-bg-darkgreen{
+	border: 1px solid #1C5620;
+}
+.border-bottom-darkgreen{
+	border-bottom: 1px solid #1C5620;
+	
+}
+.border-orange{
+	border: 1px solid #FF9933;
+}
+.border-darkgreen{
+	border: 3px solid #1C5620;
+	
+}
+
+.text-justify{
+	text-align: justify;
+}
+.vrr {
+	border-right: 1px solid #FF9933;
+}
+
